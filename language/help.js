@@ -479,7 +479,17 @@ Thanks!
   *Minat? Langsung chat aja ya cuy 🐦*
 
   *Contact person Owner* :
-  wa.me/${ownernomer}
+  wa.me/${ownernomer} ( Owner )
+  
+  *Sosmed*
+ YouTube: https://youtube.com/c/DimasshF
+Instagram: https://instagram.com/dimshee_
+Gc : https://chat.whatsapp.com/BkGqBIZp14yHHiWC00mrca
+  
+  *Donasi*
+  https://saweria.co/dImaSsh
+  
+  
 `
 }
 
