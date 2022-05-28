@@ -29,7 +29,7 @@ global.ownernomer = '6281239413351' //ubah jadi nomor mu, note tanda ' gausah di
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'DIMAS SH' //ubah jadi nama mu, note tanda ' gausah di hapus!
 global.botname = 'Ongges-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Dimas s' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.footer = 'Dimass' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
