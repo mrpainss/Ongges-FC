@@ -486,7 +486,7 @@ Thanks!
 Instagram: https://instagram.com/dimshee_
 Gc : https://chat.whatsapp.com/BkGqBIZp14yHHiWC00mrca
   
-  *Donasi*
+  *Sawer*
   https://saweria.co/dImaSsh
   
   
