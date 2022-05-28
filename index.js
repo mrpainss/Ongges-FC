@@ -1,5 +1,6 @@
 /*
-› Create By @RIY
+› Create By @DIMAS
+
 › Base Ori @DikaArdnt
 › Kalau mau ubah/edit owner di settings.js
 › Edit text menu di file language › help.js
@@ -1269,7 +1270,7 @@ break
                                 }
                             }, {
                                 urlButton: {
-                                    displayText: `Rest Api's`,
+                                    displayText: `GcWa`,
                                     url: `${myweb}`
                                 }
                             }, {
@@ -1303,7 +1304,7 @@ break
                                 }
                             }, {
                                 urlButton: {
-                                    displayText: `Rest Api's`,
+                                    displayText: `GcWa`,
                                     url: `${myweb}`
                                 }
                             }, {
@@ -3423,7 +3424,7 @@ case 'ownermenu':
 var riych = await getBuffer(picak+'Owner Menu')
 await chika.send5ButImg(from, `` + '' + lang.ownermenu(prefix), `  © ${ownername}`,riych, [{"urlButton": {"displayText": "YouTube Creator","url": `${youtube}`}},{"urlButton": {"displayText": `Rest Api's`,"url": `${myweb}`}},{"quickReplyButton": {"displayText": "Donasi","id": 'donate'}},{"quickReplyButton": {"displayText": "Back List","id": 'command'}}] )
 break
-case 'donasi': case 'donate':
+donasi': case 'donate':
 var riych = await getBuffer(picak+'Donasi')
 await chika.send5ButImg(from, `` + '' + lang.donasi(ownernomer), `  © ${ownername}`,riych, [{"urlButton": {"displayText": "YouTube Creator","url": `${youtube}`}},{"urlButton": {"displayText": `Rest Api's`,"url": `${myweb}`}},{"quickReplyButton": {"displayText": "Owner","id": 'owner'}},{"quickReplyButton": {"displayText": "Back List","id": 'command'}}] )
 break

@@ -34,9 +34,9 @@ global.footer = 'Dimas s' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/c/DimasshF'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/Dt20VhMxk0p90kHzQRdYF9'
-global.myweb = 'https://chat.whatsapp.com/Dt20VhMxk0p90kHzQRdYF9'
+global.ig = 'https://instagram.com/dimshee_'
+global.mygc = 'https://chat.whatsapp.com/BkGqBIZp14yHHiWC00mrca'
+global.myweb = 'https://chat.whatsapp.com/BkGqBIZp14yHHiWC00mrca'
 global.email = 'deloroleplay@gmail.com'
 global.region = 'indonesia'
 
