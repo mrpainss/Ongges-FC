@@ -10,7 +10,13 @@ exports.menu = (botname, pushname, salam) => {
 	return`Selamat ${salam} kak ${pushname}
 
 Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
-Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Owner Agar Segera Di Perbaiki🙏`
+Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Owner Agar Segera Di Perbaiki🙏 
+
+Author : Dimas Sh
+Youtube : Dimas Sh
+Instagram : Dimshee_
+Jika Anda Banyak Duit Maka Berdonasilah.
+Mau Sewa Bot?? Langsung Chat Owner!!`
 }
 
 //—————「 List 」—————//
@@ -418,7 +424,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}setallmenu
   
   *THANKS TO*
-  *≻* DikaArdnt
+  *≻* DimasSH
   *≻* ZeeoneOfc
   *≻* FatihArridho
   *≻* Yoga
@@ -953,14 +959,13 @@ exports.ownermenu = (prefix) => {
 exports.thanksto = () => {
 	return`
   *THANKS TO*
-  *≻* DikaArdnt
-  *≻* ZeeoneOfc
-  *≻* FatihArridho
-  *≻* Yoga
-  *≻* Riy
-  *≻* Deff
-  *≻* Sanzy
-  *≻* Nekel
-  *≻* Bagas Prdn
+  *≻* DimasSH
+  *≻* MyGod
+  *≻* MyMother
+  *≻* MyFather
+  *≻* MyGirl
+  *≻* MyFriend
+  *≻* MyTeacher
+  *≻* PembuatSC
 `
 }
