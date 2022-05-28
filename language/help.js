@@ -488,8 +488,6 @@ Gc : https://chat.whatsapp.com/BkGqBIZp14yHHiWC00mrca
   
   *Sawer*
   https://saweria.co/dImaSsh
-  
-  
 `
 }
 
